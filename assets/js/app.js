@@ -6,6 +6,7 @@ $(document).ready(function(){
     var initialTrainTime;
     var frequency;
 
+
     $("#submit").on("click", function(event){
 
         event.preventDefault();
